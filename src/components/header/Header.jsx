@@ -58,7 +58,7 @@ const Header = ({type}) => {
         { type !== "list" && 
         <> <h1 className="headerTitle">A Lifetime of Discounts? It's Genius</h1>
         <p className="headerDesc">Get Rewarded for your Travels, Get a instant 10% discount when you Trave with Waveyhigh Account</p>
-        <button className='headButton'>sign in/Register</button>
+        <button className='headButton'>Sign In/Register</button>
         <div className="headSearch">
             <div className="headSearchItem">
                 <FontAwesomeIcon icon={faBed} className="headerIcon" />
